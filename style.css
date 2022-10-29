@@ -1,0 +1,43 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: cursive;
+}
+
+body {
+  background-image: url(/images/nphrgz8yfnjylrwfr0yl.webp);
+  text-align: center;
+}
+.hero-name {
+  color: #fff;
+  font-size: 3rem;
+}
+h1 {
+  color: #fff;
+  font-size: 7rem;
+}
+p {
+  color: yellow;
+}
+.topbox {
+  margin: 1rem;
+}
+
+#searchinput {
+  width: 15rem;
+  padding: 0.4rem;
+  margin-right: 1rem;
+}
+
+#searchbutton,
+#newHero {
+  width: 9rem;
+  padding: 0.4rem;
+  border-radius: 5px;
+}
+
+.attributes {
+  color: #fff;
+  margin-top: 1rem;
+}
